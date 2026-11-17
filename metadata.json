@@ -1,0 +1,6 @@
+{
+  "name": "法途抉择",
+  "description": "基于开放性结果机制的14关交互式普法叙事演练系统，涵盖标签累积、隐藏数值、蝴蝶效应因果图谱与法律知识卡片库。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
